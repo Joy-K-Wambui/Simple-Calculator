@@ -1,4 +1,4 @@
-package com.per.myassignment2;
+package com.per.SimpleCalculator;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
